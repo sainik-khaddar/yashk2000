@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+<p align="center"> <img src="https://octodex.github.com/images/xtocat.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/scubatocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/catstello.png" height="160px" width="160px"> </p>
 
 ### Hey there, I'm Yash 👋
 
@@ -17,5 +17,6 @@
 
 ![Yash's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=yashk2000&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<p align="center"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/carlostocat.gif" height="160px" width="160px"></p>
 
 <p align="center"><a href="https://github.com/yashk2000"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
