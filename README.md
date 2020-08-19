@@ -19,4 +19,4 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/carlostocat.gif" height="160px" width="160px"></p>
 
-<p align="center"><a href="https://github.com/yashk2000"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/yashk2000"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%" style="transform:rotate(40deg);/></a></p>
