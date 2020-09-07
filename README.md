@@ -10,9 +10,10 @@
 
 ![](https://komarev.com/ghpvc/?username=yashk2000)
 
-- 🔭 I’m currently working on [Vision PPI](https://github.com/openMF/ppi-vision).
-- 🌱 I’m currently teaching computers how to see. 
-- 💬 Ask me about open source, computer vision, android development, flutter development and communities.
+- :robot: I’m currently working on teaching computers how to do stuff.
+- 🙇‍♂️ I'm currently into learning about deep learning, computer vision and have recently started exploring security and privacy in AI. 
+- 🔭 OSS projects I am contributing to: [Vision PPI](https://github.com/openMF/ppi-vision), [Kiwix Android](https://github.com/kiwix/kiwix-android), [Lorax](https://github.com/ashwinkey04/lorax), and a few projects at the [amFOSS GitLab](https://gitlab.com/amfoss) and [Fireboltz](https://github.com/Fireboltz).
+- 💬 Ask me about open source, computer vision, machine learning, android development, flutter development and communities.
 - 📫 How to reach me: Send an email to me at [yashsja@gmail.com](mailto:yashsja@gmail.com) or ping me on Telegram, [@yashk2000](https://t.me/yashk2000).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I use a laptop with a cracked screen.
