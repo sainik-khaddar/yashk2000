@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yashk2000)
 
-- 👨‍💻 I'm currently working on figuring out how machines actually learn and building the GitLit. 
+- 👨‍💻 I'm figuring out how machines actually learn and how to teach them better. 
 - :robot: I’m currently working on reinforcement learning and the security in neural networks.
 - 🙇‍♂️ I'm into learning about deep learning, computer vision and have recently started exploring security and privacy in AI. 
 - 🔭 OSS projects I am contributing to: [Vision PPI](https://github.com/openMF/ppi-vision), [Kiwix Android](https://github.com/kiwix/kiwix-android), [Lorax](https://github.com/ashwinkey04/lorax), and a few projects at the [amFOSS GitLab](https://gitlab.com/amfoss) and [Fireboltz](https://github.com/Fireboltz).
